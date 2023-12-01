@@ -3,8 +3,8 @@
 - 👋 Hi, I’m @isYangs
 - 👀 My personal preference is to listen to music, watch movies, keyboard audiophile
 - 👨🏻‍💻 A Web developers
-- 📝 My blog address : [xuewuzhibu.cn](https://xuewuzhibu.cn)
-- 📫 How to reach me : isYangs@foxmail.com
+- 📝 My blog address : [isyangs.cn](https://isyangs.cn)
+- 📫 How to reach me : hi@isyangs.cn
 
 <!--
 **isYangs/isYangs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
